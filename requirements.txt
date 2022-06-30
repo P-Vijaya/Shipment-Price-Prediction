@@ -1,0 +1,14 @@
+certifi
+click
+colorama
+Flask
+Flask-Cors
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+six
+typing_extensions
+Werkzeug
+wincertstore
+zipp
