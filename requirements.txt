@@ -12,3 +12,4 @@ typing_extensions
 Werkzeug
 wincertstore
 zipp
+gunicorn
