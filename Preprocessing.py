@@ -164,7 +164,7 @@ class Preprocessor:
                 print(model_name, 'trained')
             ## Selecting the best parameters using hyperparameter tuning
             rfrs_model = RandomForestRegressor(n_estimators=108, min_samples_split=2, min_samples_leaf=1,
-                                               criterion='mae',
+                                               criterion='absolute_error',
                                                random_state=10)
             rfrs_model.fit(X_train, y_train)
             y_pred_rfrs = rfrs_model.predict(X_test)
