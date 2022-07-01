@@ -1,3 +1,3 @@
-logger_class.py/*
-cleaned_data.csv/*
-.idea/*
+Application_logging/logger_class.py/
+cleaned_data/cleaned_data.csv/
+.idea/
