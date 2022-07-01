@@ -150,9 +150,9 @@ class Preprocessor:
             X_train, X_test, y_train, y_test = train_test_split(scaled_x, y, test_size=0.3, random_state=42)
             models = {
                 'Linear Regression': LinearRegression(),
-                'Linear Regression(Ridge)': Ridge(),
-                'Linear Regression(lasso)': Lasso(),
-                'Support vector Regression': SVR(),
+                #'Linear Regression(Ridge)': Ridge(),
+                #'Linear Regression(lasso)': Lasso(),
+                #'Support vector Regression': SVR(),
                 'Random Forest Regressor': RandomForestRegressor(),
                 #'XGBoost Regressor': XGBRegressor(),
                 #'Catboost': CatBoostRegressor(verbose=0),
