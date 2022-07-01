@@ -388,3 +388,17 @@
 2022-07-01/10:34:48		Saving the best model
 2022-07-01/10:34:48		Entered the getTestDataset method of the Preprocessor class
 2022-07-01/10:34:48		Entered the prediction method of the Preprocessor class
+2022-07-01/12:57:15		Entered the readDataset method of the Clean_and_Impute class
+2022-07-01/12:57:16		Reading data is a success
+2022-07-01/12:57:16		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/12:57:16		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-07-01/12:57:16		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/12:57:16		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-07-01/12:57:16		Entered the imputing_Insurance_col method of the Clean_and_Impute class
+2022-07-01/12:57:36		Entered the readDataset method of the Clean_and_Impute class
+2022-07-01/12:57:36		Reading data is a success
+2022-07-01/12:57:36		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/12:57:36		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-07-01/12:57:36		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/12:57:36		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-07-01/12:57:36		Entered the imputing_Insurance_col method of the Clean_and_Impute class

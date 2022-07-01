@@ -23,7 +23,7 @@ def index():
         train['Weight (Kilograms)'] = cleanImputeobj.cleaning_feature(col='Weight (Kilograms)', data=train)
         train['Weight (Kilograms)'] = cleanImputeobj.cleaning_weight_col(col='Weight (Kilograms)', data=train)
         train = train.reset_index(drop=True)
-        train['Line Item Insurance (USD)'] = cleanImputeobj.imputing_Insurance_col(col='Line Item Insurance (USD)', data=train)
+        #train['Line Item Insurance (USD)'] = cleanImputeobj.imputing_Insurance_col(col='Line Item Insurance (USD)', data=train)
         train['Shipment Mode'] = cleanImputeobj.impute_shipmentmode(col='Shipment Mode', data=train)
         train['Dosage'] = cleanImputeobj.impute_dosage_col(col='Dosage', data=train)
         train = cleanImputeobj.convertToDatetime(data=train)
