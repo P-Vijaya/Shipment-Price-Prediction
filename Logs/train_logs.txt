@@ -1,0 +1,390 @@
+2022-06-30/18:12:20		Entered the readDataset method of the Preprocessor class
+2022-06-30/18:16:01		Entered the readDataset method of the Preprocessor class
+2022-06-30/18:17:25		Entered the readDataset method of the Preprocessor class
+2022-06-30/18:17:25		Reading data is a success
+2022-06-30/19:02:32		Entered the readDataset method of the Preprocessor class
+2022-06-30/19:02:33		Reading data is a success
+2022-06-30/19:12:27		Entered the readDataset method of the Preprocessor class
+2022-06-30/19:12:27		Reading data is a success
+2022-06-30/19:12:47		Entered the readDataset method of the Preprocessor class
+2022-06-30/19:12:47		Reading data is a success
+2022-06-30/19:25:16		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/19:25:16		Reading data is a success
+2022-06-30/19:25:16		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/19:25:16		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/19:25:16		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/19:25:16		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:23:05		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:23:05		Reading data is a success
+2022-06-30/20:23:05		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:23:05		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:23:05		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:23:05		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:23:05		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:23:05		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:23:05		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:23:58		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:23:59		Reading data is a success
+2022-06-30/20:23:59		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:23:59		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:23:59		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:23:59		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:23:59		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:23:59		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:23:59		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:43:10		Reading data is a success
+2022-06-30/20:43:10		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:43:10		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:43:11		Reading data is a success
+2022-06-30/20:48:37		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:48:37		Reading data is a success
+2022-06-30/20:48:37		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:48:37		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:48:37		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:48:37		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:48:37		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:48:37		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:48:37		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:48:37		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:48:37		Reading data is a success
+2022-06-30/20:48:37		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:49:46		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:49:46		Reading data is a success
+2022-06-30/20:49:46		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:49:46		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:49:46		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:49:46		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:49:46		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:49:46		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:49:46		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:49:46		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:49:46		Reading data is a success
+2022-06-30/20:49:46		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:51:13		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:51:13		Reading data is a success
+2022-06-30/20:51:13		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:51:13		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:51:13		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:51:13		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:51:13		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:51:13		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:51:13		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:51:13		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:51:13		Reading data is a success
+2022-06-30/20:51:13		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:52:16		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:52:16		Reading data is a success
+2022-06-30/20:52:16		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:52:16		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:52:16		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:52:16		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:52:16		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:52:16		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:52:16		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:52:16		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:52:16		Reading data is a success
+2022-06-30/20:52:16		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:52:20		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/20:52:20		Reading data is a success
+2022-06-30/20:52:20		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:52:20		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/20:52:20		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/20:52:20		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/20:52:20		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/20:52:20		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/20:52:20		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/20:52:20		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/20:52:20		Reading data is a success
+2022-06-30/20:52:20		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:07:53		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:07:54		Reading data is a success
+2022-06-30/21:07:54		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:07:54		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:07:54		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:07:54		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:07:54		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:07:54		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:07:54		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:07:54		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:07:54		Reading data is a success
+2022-06-30/21:07:54		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:07:54		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:08:42		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:08:42		Reading data is a success
+2022-06-30/21:08:42		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:08:42		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:08:42		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:08:42		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:08:42		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:08:42		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:08:42		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:08:42		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:08:42		Reading data is a success
+2022-06-30/21:08:42		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:08:42		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:13:19		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:13:19		Reading data is a success
+2022-06-30/21:13:19		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:13:19		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:13:19		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:13:19		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:13:19		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:13:19		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:13:19		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:13:19		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:13:19		Reading data is a success
+2022-06-30/21:13:19		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:14:07		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:14:07		Reading data is a success
+2022-06-30/21:14:07		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:14:07		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:14:07		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:14:07		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:14:07		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:14:07		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:14:07		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:14:07		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:14:07		Reading data is a success
+2022-06-30/21:14:07		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:14:07		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:14:07		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/21:22:43		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:22:43		Reading data is a success
+2022-06-30/21:22:43		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:22:43		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:22:43		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:22:43		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:22:43		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:22:43		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:22:43		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:22:43		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:22:43		Reading data is a success
+2022-06-30/21:22:43		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:22:43		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:22:43		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/21:22:44		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/21:24:06		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:24:06		Reading data is a success
+2022-06-30/21:24:06		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:24:06		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:24:06		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:24:06		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:24:06		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:24:06		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:24:06		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:24:06		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:24:06		Reading data is a success
+2022-06-30/21:24:06		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:24:06		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:24:06		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/21:24:06		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/21:24:33		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:24:33		Reading data is a success
+2022-06-30/21:24:33		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:24:33		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:24:33		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:24:33		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:24:33		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:24:33		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:24:33		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:24:33		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:24:33		Reading data is a success
+2022-06-30/21:24:33		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:24:33		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:24:33		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/21:24:33		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/21:48:47		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:48:47		Reading data is a success
+2022-06-30/21:48:47		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:48:47		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:48:47		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:48:47		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:48:47		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:48:47		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:48:47		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:48:47		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:48:47		Reading data is a success
+2022-06-30/21:48:47		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:48:47		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:48:48		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/21:48:48		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/21:48:48		Entered the trainModel method of the Preprocessor class
+2022-06-30/21:50:43		Selecting the best parameters using hyperparameter tuning is a success
+2022-06-30/21:53:06		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/21:53:06		Reading data is a success
+2022-06-30/21:53:06		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:53:06		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/21:53:06		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/21:53:06		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/21:53:06		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/21:53:06		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/21:53:06		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/21:53:06		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/21:53:06		Reading data is a success
+2022-06-30/21:53:06		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/21:53:06		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/21:53:06		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/21:53:06		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/21:53:06		Entered the trainModel method of the Preprocessor class
+2022-06-30/21:54:45		Selecting the best parameters using hyperparameter tuning is a success
+2022-06-30/21:54:45		Saving the best model
+2022-06-30/23:21:37		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/23:21:37		Reading data is a success
+2022-06-30/23:21:37		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/23:21:37		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/23:21:37		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/23:21:37		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/23:21:37		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/23:21:37		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/23:21:37		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/23:21:37		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/23:21:37		Reading data is a success
+2022-06-30/23:21:37		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/23:21:37		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/23:21:37		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/23:21:37		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/23:21:37		Entered the trainModel method of the Preprocessor class
+2022-06-30/23:22:26		Selecting the best parameters using hyperparameter tuning is a success
+2022-06-30/23:22:26		Saving the best model
+2022-06-30/23:29:45		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/23:29:45		Reading data is a success
+2022-06-30/23:29:45		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/23:29:45		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/23:29:45		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/23:29:45		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/23:29:45		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/23:29:45		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/23:29:45		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/23:29:45		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/23:29:45		Reading data is a success
+2022-06-30/23:29:45		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/23:29:46		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/23:29:46		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/23:29:46		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/23:29:46		Entered the trainModel method of the Preprocessor class
+2022-06-30/23:30:41		Selecting the best parameters using hyperparameter tuning is a success
+2022-06-30/23:30:41		Saving the best model
+2022-06-30/23:30:41		Entered the getTestDataset method of the Preprocessor class
+2022-06-30/23:34:14		Entered the readDataset method of the Clean_and_Impute class
+2022-06-30/23:34:14		Reading data is a success
+2022-06-30/23:34:14		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/23:34:14		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-06-30/23:34:14		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-06-30/23:34:14		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-06-30/23:34:14		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-06-30/23:34:14		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-06-30/23:34:14		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-06-30/23:34:14		Entered the readCleanedData method of the Preprocessor class
+2022-06-30/23:34:14		Reading data is a success
+2022-06-30/23:34:14		Entered the removeOutliers method of the Preprocessor class
+2022-06-30/23:34:15		Entered the encodeCatFeatures method of the Preprocessor class
+2022-06-30/23:34:15		Entered the extractingfromDatetime method of the Preprocessor class
+2022-06-30/23:34:15		Entered the removeCorrfeatures method of the Preprocessor class
+2022-06-30/23:34:15		Entered the trainModel method of the Preprocessor class
+2022-06-30/23:35:01		Selecting the best parameters using hyperparameter tuning is a success
+2022-06-30/23:35:01		Saving the best model
+2022-06-30/23:35:01		Entered the getTestDataset method of the Preprocessor class
+2022-07-01/09:41:42		Entered the readDataset method of the Clean_and_Impute class
+2022-07-01/09:41:43		Reading data is a success
+2022-07-01/09:41:43		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/09:41:43		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-07-01/09:41:43		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/09:41:43		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-07-01/09:41:43		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-07-01/09:41:43		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-07-01/09:41:43		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-07-01/09:41:43		Entered the readCleanedData method of the Preprocessor class
+2022-07-01/09:41:43		Reading data is a success
+2022-07-01/09:41:43		Entered the removeOutliers method of the Preprocessor class
+2022-07-01/09:41:44		Entered the encodeCatFeatures method of the Preprocessor class
+2022-07-01/09:41:44		Entered the extractingfromDatetime method of the Preprocessor class
+2022-07-01/09:41:44		Entered the removeCorrfeatures method of the Preprocessor class
+2022-07-01/09:41:44		Entered the trainModel method of the Preprocessor class
+2022-07-01/09:42:43		Selecting the best parameters using hyperparameter tuning is a success
+2022-07-01/09:42:43		Saving the best model
+2022-07-01/09:47:53		Entered the readDataset method of the Clean_and_Impute class
+2022-07-01/09:47:53		Reading data is a success
+2022-07-01/09:47:53		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/09:47:53		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-07-01/09:47:53		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/09:47:53		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-07-01/09:47:53		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-07-01/09:47:53		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-07-01/09:47:53		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-07-01/09:47:53		Entered the readCleanedData method of the Preprocessor class
+2022-07-01/09:47:53		Reading data is a success
+2022-07-01/09:47:53		Entered the removeOutliers method of the Preprocessor class
+2022-07-01/09:47:53		Entered the encodeCatFeatures method of the Preprocessor class
+2022-07-01/09:47:53		Entered the extractingfromDatetime method of the Preprocessor class
+2022-07-01/09:47:53		Entered the removeCorrfeatures method of the Preprocessor class
+2022-07-01/09:47:53		Entered the trainModel method of the Preprocessor class
+2022-07-01/09:48:37		Selecting the best parameters using hyperparameter tuning is a success
+2022-07-01/09:48:37		Saving the best model
+2022-07-01/09:48:37		Entered the getTestDataset method of the Preprocessor class
+2022-07-01/10:07:29		Entered the readDataset method of the Clean_and_Impute class
+2022-07-01/10:07:29		Reading data is a success
+2022-07-01/10:07:29		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/10:07:29		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-07-01/10:07:29		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/10:07:29		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-07-01/10:07:29		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-07-01/10:07:29		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-07-01/10:07:29		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-07-01/10:07:29		Entered the readCleanedData method of the Preprocessor class
+2022-07-01/10:07:30		Reading data is a success
+2022-07-01/10:07:30		Entered the removeOutliers method of the Preprocessor class
+2022-07-01/10:07:30		Entered the encodeCatFeatures method of the Preprocessor class
+2022-07-01/10:07:30		Entered the extractingfromDatetime method of the Preprocessor class
+2022-07-01/10:07:30		Entered the removeCorrfeatures method of the Preprocessor class
+2022-07-01/10:07:30		Entered the trainModel method of the Preprocessor class
+2022-07-01/10:08:37		Selecting the best parameters using hyperparameter tuning is a success
+2022-07-01/10:08:37		Saving the best model
+2022-07-01/10:08:37		Entered the getTestDataset method of the Preprocessor class
+2022-07-01/10:08:37		Entered the prediction method of the Preprocessor class
+2022-07-01/10:12:37		Entered the readDataset method of the Clean_and_Impute class
+2022-07-01/10:12:37		Reading data is a success
+2022-07-01/10:12:37		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/10:12:37		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-07-01/10:12:37		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/10:12:37		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-07-01/10:12:37		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-07-01/10:12:37		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-07-01/10:12:37		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-07-01/10:12:37		Entered the readCleanedData method of the Preprocessor class
+2022-07-01/10:12:37		Reading data is a success
+2022-07-01/10:12:37		Entered the removeOutliers method of the Preprocessor class
+2022-07-01/10:12:38		Entered the encodeCatFeatures method of the Preprocessor class
+2022-07-01/10:12:38		Entered the extractingfromDatetime method of the Preprocessor class
+2022-07-01/10:12:38		Entered the removeCorrfeatures method of the Preprocessor class
+2022-07-01/10:12:38		Entered the trainModel method of the Preprocessor class
+2022-07-01/10:13:43		Selecting the best parameters using hyperparameter tuning is a success
+2022-07-01/10:13:43		Saving the best model
+2022-07-01/10:13:43		Entered the getTestDataset method of the Preprocessor class
+2022-07-01/10:13:43		Entered the prediction method of the Preprocessor class
+2022-07-01/10:33:59		Entered the readDataset method of the Clean_and_Impute class
+2022-07-01/10:33:59		Reading data is a success
+2022-07-01/10:33:59		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/10:33:59		Entered the cleaning_freight_col method of the Clean_and_Impute class
+2022-07-01/10:33:59		Entered the cleaning_feature method of the Clean_and_Impute class
+2022-07-01/10:33:59		Entered the cleaning_weight_col method of the Clean_and_Impute class
+2022-07-01/10:33:59		Entered the impute_shipmentmode method of the Clean_and_Impute class
+2022-07-01/10:33:59		Entered the impute_dosage_col method of the Clean_and_Impute class
+2022-07-01/10:33:59		Entered the convertToDatetime method of the Clean_and_Impute class
+2022-07-01/10:33:59		Entered the readCleanedData method of the Preprocessor class
+2022-07-01/10:33:59		Reading data is a success
+2022-07-01/10:33:59		Entered the removeOutliers method of the Preprocessor class
+2022-07-01/10:33:59		Entered the encodeCatFeatures method of the Preprocessor class
+2022-07-01/10:33:59		Entered the extractingfromDatetime method of the Preprocessor class
+2022-07-01/10:33:59		Entered the removeCorrfeatures method of the Preprocessor class
+2022-07-01/10:33:59		Entered the trainModel method of the Preprocessor class
+2022-07-01/10:34:48		Selecting the best parameters using hyperparameter tuning is a success
+2022-07-01/10:34:48		Saving the best model
+2022-07-01/10:34:48		Entered the getTestDataset method of the Preprocessor class
+2022-07-01/10:34:48		Entered the prediction method of the Preprocessor class

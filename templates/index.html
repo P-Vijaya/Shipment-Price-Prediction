@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Forecast</title>
+    <title>Prediction</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -14,21 +14,136 @@
 
         <div class="content">
             <br>
-            <h1 style="text-align: center">Petrol Price Forecasting</h1><br>
+            <h1 style="text-align: center">Shipment Price Prediction</h1><br>
 
-             <br><br><div class="form">
-                <form action="/single" method="POST" enctype="multipart/form-data">
-                    <h4 style="text-align: left"> To Forecast Petrol price for customized date: </h4>
-                    <br><input type = "file" id="myFile" name="Filename">
-                    <input type="submit" value="Submit">
-                </form>
-             </div>
+            <br><br><div class="form">
+                <form action="/predict" method="POST">
+                    <textarea class="number" name="Line_item_quantity" id="Line_item_quantity" rows=1 placeholder="Line_item_quantity"></textarea>
+                    <textarea class="number" name="Pack Price" id="Pack Price" rows=1 placeholder="Pack Price"></textarea>
+                    <textarea class="number" name="Weight (Kilograms)" id="Weight (Kilograms)" rows=1 placeholder="Weight (Kilograms)"></textarea>
+                    <br><textarea class="number" name="Scheduled Delivery Date_year" id="Scheduled Delivery Date_year" rows=1 placeholder="Scheduled Delivery year"></textarea>
+                    <textarea class="number" name="Scheduled Delivery Date_month" id="Scheduled Delivery Date_month" rows=1 placeholder="Scheduled Delivery month"></textarea>
+                    <textarea class="number" name="Scheduled Delivery Date_day" id="Scheduled Delivery Date_day" rows=1 placeholder="Scheduled Delivery day"></textarea>
+                    <br><br><label for="Country">Country:</label>
+                    <select name="Country" id="Country">
+                      <option value="Côte d'Ivoire">Côte d'Ivoire</option>
+                      <option value="Vietnam">Vietnam</option>
+                      <option value="Nigeria">Nigeria</option>
+                      <option value="Tanzania">Tanzania</option>
+                      <option value="Zambia">Zambia</option>
+                      <option value="Rwanda">Rwanda</option>
+                      <option value="Haiti">Haiti</option>
+                      <option value="Ethiopia">Ethiopia</option>
+                      <option value="Guyana">Guyana</option>
+                      <option value="Zimbabwe">Zimbabwe</option>
+                      <option value="Namibia">Namibia</option>
+                      <option value="Botswana">Botswana</option>
+                      <option value="Mozambique">Mozambique</option>
+                      <option value="South Africa">South Africa</option>
+                      <option value="Uganda">Uganda</option>
+                      <option value="Kenya">Kenya</option>
+                      <option value="Senegal">Senegal</option>
+                      <option value="Benin">Benin</option>
+                      <option value="Lesotho">Lesotho</option>
+                      <option value="Swaziland">Swaziland</option>
+                      <option value="Angola">Angola</option>
+                      <option value="Pakistan">Pakistan</option>
+                      <option value="Sierra Leone">Sierra Leone</option>
+                      <option value="Cameroon">Cameroon</option>
+                      <option value="South Sudan">South Sudan</option>
+                      <option value="Burundi">Burundi</option>
+                      <option value="Congo">Congo</option>
+                      <option value="DRC">DRC</option>
+                      <option value="Dominican Republic">Dominican Republic</option>
+                      <option value="Sudan">Sudan</option>
+                      <option value="Mali">Mali</option>
+                      <option value="Ghana">Ghana</option>
+                      <option value="Malawi">Malawi</option>
+                      <option value="Togo">Togo</option>
+                      <option value="Afghanistan">Afghanistan</option>
+                      <option value="Guatemala">Guatemala</option>
+                      <option value="Liberia">Liberia</option>
+                      <option value="Guinea">Guinea</option>
+                      <option value="Libya">Libya</option>
+                      <option value="Belize">Belize</option>
+                    </select>
+                    <br><label for="Vendor INCO Term">Vendor INCO Term:</label>
+                    <select name="Vendor INCO Term" id="Vendor INCO Term">
+                      <option value="EXW">EXW</option>
+                      <option value="FCA">FCA</option>
+                      <option value="CIP">CIP</option>
+                      <option value="DDP">DDP</option>
+                      <option value="CIF">CIF</option>
+                      <option value="DDU">DDU</option>
+                      <option value="N/A - From RDC">N/A - From RDC</option>
+                      <option value="DAP">DAP</option>
+                    </select>
+                    <br><label for="Shipment Mode">Shipment Mode:</label>
+                    <select name="Shipment Mode" id="Shipment Mode">
+                      <option value="Air">Air</option>
+                      <option value="Truck">Truck</option>
+                      <option value="Air Charter">Air Charter</option>
+                      <option value="Ocean">Ocean</option>
+                    </select>
+                    <br><label for="Product Group">Product Group:</label>
+                    <select name="Product Group" id="Product Group">
+                      <option value="HRDT">HRDT</option>
+                      <option value="ARV">ARV</option>
+                      <option value="ACT">ACT</option>
+                      <option value="MRDT">MRDT</option>
+                      <option value="ANTM">ANTM</option>
+                    </select>
+                    <br><label for="Sub Classification">Sub Classification:</label>
+                    <select name="Sub Classification" id="Sub Classification">
+                      <option value="HIV test">HIV test</option>
+                      <option value="Pediatric">Pediatric</option>
+                      <option value="Adult">Adult</option>
+                      <option value="HIV test - Ancillary">HIV test - Ancillary</option>
+                      <option value="ACT">ACT</option>
+                      <option value="Malaria">Malaria</option>
+                    </select>
+                    <br><label for="Dosage Form">Dosage Form:</label>
+                    <select name="Dosage Form" id="Dosage Form">
+                      <option value="Test kit">Test kit</option>
+                      <option value="Oral suspension">Oral suspension</option>
+                      <option value="Tablet">Tablet</option>
+                      <option value="Capsule">Capsule</option>
+                      <option value="Oral solution">Oral solution</option>
+                      <option value="Tablet - FDC">Tablet - FDC</option>
+                      <option value="Powder for oral solution">Powder for oral solution</option>
+                      <option value="Test kit - Ancillary">Test kit - Ancillary</option>
+                      <option value="Chewable/dispersible tablet">Chewable/dispersible tablet</option>
+                      <option value="Delayed-release capsules - blister">Delayed-release capsules - blister</option>
+                      <option value="Tablet - FDC + blister">Tablet - FDC + blister</option>
+                      <option value="Tablet - FDC + co-blister">Tablet - FDC + co-blister</option>
+                      <option value="Injection">Injection</option>
+                      <option value="Delayed-release capsules">Delayed-release capsules</option>
+                      <option value="Chewable/dispersible tablet - FDC">Chewable/dispersible tablet - FDC</option>
+                      <option value="Tablet - blister">Tablet - blister</option>
+                      <option value="Oral powder">Oral powder</option>
+                    </select>
+                    <br><label for="First Line Designation">First Line Designation:</label>
+                    <select name="First Line Designation" id="First Line Designation">
+                      <option value="Yes">Yes</option>
+                      <option value="No">No</option>
+                    </select>
+                    <br><label for="Fulfill Via">Fulfill Via:</label>
+                    <select name="Fulfill Via" id="Fulfill Via">
+                      <option value="Direct Drop">Direct Drop</option>
+                      <option value="From RDC">From RDC</option>
+                    </select>
+                    <br><label for="Managed By">Managed By:</label>
+                    <select name="Managed By" id="Managed By">
+                      <option value="PMO - US">PMO - US</option>
+                      <option value="Haiti Field Office">Haiti Field Office</option>
+                    </select>
 
-             <br><br><div class="form">
-                <form action="/test" method="POST">
-                    <h4 style="text-align: left"> To Forecast Petrol price for the given test file: </h4>
-                    <br><input type="submit" value="Forecast for test data">
+                    <br><br><button type="submit" class="btn btn-primary mb-2">Predict</button></br>
+                    <br>
+
                 </form>
+                <br><h3>Predicted Freight cost (USD) : {{ results }}<h3>
+
              </div>
 
         </div>

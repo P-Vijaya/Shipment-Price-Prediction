@@ -13,3 +13,6 @@ Werkzeug
 wincertstore
 zipp
 gunicorn
+pandas
+numpy
+sklearn
