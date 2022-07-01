@@ -16,3 +16,4 @@ gunicorn
 pandas
 numpy
 sklearn
+gevent

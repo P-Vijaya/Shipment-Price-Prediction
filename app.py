@@ -15,18 +15,18 @@ def home():
 @app.route('/predict',methods=["POST"])
 def index():
     try:
-        #cleanImputeobj = Clean_and_Impute()
-        #train = cleanImputeobj.readDataset(path='Training_file/SCMS_Delivery_History_Dataset.csv')
-        #target = 'Freight Cost (USD)'
-        #train[target] = cleanImputeobj.cleaning_feature(col=target, data=train)
-        #train[target] = cleanImputeobj.cleaning_freight_col(col=target, data=train)
-        #train['Weight (Kilograms)'] = cleanImputeobj.cleaning_feature(col='Weight (Kilograms)', data=train)
-        #train['Weight (Kilograms)'] = cleanImputeobj.cleaning_weight_col(col='Weight (Kilograms)', data=train)
-        #train = train.reset_index(drop=True)
-        # train['Line Item Insurance (USD)'] = cleanImputeobj.imputing_Insurance_col(col='Line Item Insurance (USD)', data=train)
-        #train['Shipment Mode'] = cleanImputeobj.impute_shipmentmode(col='Shipment Mode', data=train)
-        #train['Dosage'] = cleanImputeobj.impute_dosage_col(col='Dosage', data=train)
-        #train = cleanImputeobj.convertToDatetime(data=train)
+        cleanImputeobj = Clean_and_Impute()
+        train = cleanImputeobj.readDataset(path='Training_file/SCMS_Delivery_History_Dataset.csv')
+        target = 'Freight Cost (USD)'
+        train[target] = cleanImputeobj.cleaning_feature(col=target, data=train)
+        train[target] = cleanImputeobj.cleaning_freight_col(col=target, data=train)
+        train['Weight (Kilograms)'] = cleanImputeobj.cleaning_feature(col='Weight (Kilograms)', data=train)
+        train['Weight (Kilograms)'] = cleanImputeobj.cleaning_weight_col(col='Weight (Kilograms)', data=train)
+        train = train.reset_index(drop=True)
+        train['Line Item Insurance (USD)'] = cleanImputeobj.imputing_Insurance_col(col='Line Item Insurance (USD)', data=train)
+        train['Shipment Mode'] = cleanImputeobj.impute_shipmentmode(col='Shipment Mode', data=train)
+        train['Dosage'] = cleanImputeobj.impute_dosage_col(col='Dosage', data=train)
+        train = cleanImputeobj.convertToDatetime(data=train)
         ## Preprocessing
         preprocessorobj = Preprocessor()
         train = preprocessorobj.readCleanedData(path='cleaned_data/cleaned_data.csv')
